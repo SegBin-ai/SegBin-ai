@@ -1,9 +1,5 @@
 # SegBin.AI
 
-click on the thumbnail below for demo video
-
-[![Video Thumbnail](https://img.youtube.com/vi/xi4odXWze9k/0.jpg)](https://www.youtube.com/watch?v=xi4odXWze9k)
-
 https://www.youtube.com/watch?v=xi4odXWze9k
 
 3D Sketch of Dustbin
