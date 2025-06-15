@@ -1,15 +1,10 @@
-# SegBin.AI by TerraVortex
-
-www.terravortex.com
+# SegBin.AI
 
 click on the thumbnail below for demo video
 
 [![Video Thumbnail](https://img.youtube.com/vi/xi4odXWze9k/0.jpg)](https://www.youtube.com/watch?v=xi4odXWze9k)
 
 https://www.youtube.com/watch?v=xi4odXWze9k
-
-- live demo of analytics dashboard: [TerraVortex Dashboard](https://www.terravortex.com/single-project.html)
-  you can create your own user ID and password or use Username: test@ibm.com Password:test123
 
 3D Sketch of Dustbin
 ![3D drawing](images/Drawing.jpg)
@@ -45,7 +40,7 @@ Smart waste sorting alternative to dustbins with AI, data insights, and revenue 
 
 ### Our idea
 
-TerraVortex is proud to introduce two innovative waste management solutions: SegBin lite and SegBin X. SegBin lite is a sleek, plate-shaped device that can be placed on existing dustbins, offering automated waste sorting. Equipped with four adjustable openings, each corresponding to a waste category (plastic products, food waste, metals, and office products), SegBin lite utilizes a wide angle Full HD camera module and an infrared sensor. Users simply hold the trash above the camera for a few seconds, allowing our advanced algorithm to analyze the photo and open the appropriate hole for disposal.
+We are proud to introduce two innovative waste management solutions: SegBin lite and SegBin X. SegBin lite is a sleek, plate-shaped device that can be placed on existing dustbins, offering automated waste sorting. Equipped with four adjustable openings, each corresponding to a waste category (plastic products, food waste, metals, and office products), SegBin lite utilizes a wide angle Full HD camera module and an infrared sensor. Users simply hold the trash above the camera for a few seconds, allowing our advanced algorithm to analyze the photo and open the appropriate hole for disposal.
 Alternatively, along with all the features discussed SegBin X adds a smart separator system. Users can conveniently dispose of all their waste through the central hole, and our product automatically separates and sorts the items accordingly. Both solutions come with a comprehensive data analysis dashboard, empowering users with insights into their disposal trends. Leveraging AI-driven analytics, data visualization, and predictive modeling, customers gain valuable information on waste composition. Furthermore, our AI-powered chatbot offers suggestions on maximizing the use of each waste type. Additionally, our platform features an auction system connecting customers with waste buyers, optimizing their potential revenue.
 
 
@@ -82,8 +77,6 @@ IBM Watson Studio was utilized to improve and fine-tune the TensorFlow machine l
 - IBM Watson Assistant: IBM Watson Assistant serves a dual purpose in our system: first, it enables users to effortlessly navigate the dashboard hosted on IBM Cloud by answering their inquiries and guiding them through simple tasks with natural language interactions.
 - Second, deployed on our website, Watson Assistant acts as a responsive customer support chatbot, readily addressing common queries and offering assistance, thereby enhancing user experience and engagement. 
 
-The assistant has been deployed on our website: www.terravortex.com in basic Beta testing stage and there is an example gif below. You can say "show demo video" and it will work.
-
 ![ChatBot](images/ezgif.com-video-to-gif.gif)
 
 - IBM Analytics: We leverage IBM Analytics to process and analyze data from various sources, including the TensorFlow model's predictions and Cloudant-stored metrics. This provides valuable insights presented on the IBM Cloud-hosted dashboard.
@@ -100,7 +93,6 @@ We established communication between the Jetson Nano and ESP32 devices using Nod
 
 - IBM Cloud Hosting:
 The dashboard that displays the system's data and insights is hosted on the IBM Cloud platform. Users can access this dashboard from their web browsers to monitor the machine learning model's performance, view predictions, and interact with the system.
-[TerraVortex Dashboard](https://www.terravortex.com/single-project.html)
 
 ### Solution architecture
 
